@@ -4,6 +4,8 @@
     "test": "vitest --watch"
   },
   "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/mocha": "^10.0.6",
     "typescript": "5.4.5",
     "vitest": "1.6.0"
   }
